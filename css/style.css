@@ -1402,7 +1402,7 @@ textarea {
 }
 
 .form__btn {
-  line-height: 42px;
+  min-height: 42px;
 }
 
 /* -------------- */
